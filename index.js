@@ -1,8 +1,5 @@
 const readline = require('readline'); 
 
- 
-
-// Função para calcular o nível do jogador 
 
 function calcularNivel(vitorias, derrotas) { 
 
